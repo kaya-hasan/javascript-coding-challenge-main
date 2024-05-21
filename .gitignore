@@ -1,0 +1,3 @@
+echo ".vscode/" >> .gitignore
+git add .gitignore
+git commit -m "Ignore .vscode folder"
