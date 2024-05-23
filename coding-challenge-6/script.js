@@ -24,3 +24,4 @@ console.log(tips);
 const total = bills.map((bill, index) => bill + tips[index]);
 console.log(total);
 console.log(bills, tips, total);
+
